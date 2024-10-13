@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Calotriton (Alex). I'm a PhD in Ecology, passionate about biodiversity, conservation, and data science!
+- 👋 Hi, I’m Alex, a PhD in Ecology and Data Scientist. I am passionate about biodiversity and its conservation using statistical and machine learning tools.
 - 👀 I’m interested in herpetology, freshwater ecology, and statistics.
-- 🌱 I’m currently learning R, Python, SQL, and data science in general
+- 🌱 Currently enroled in UCM's Master's degree on Data Science, Big Data, Machine Learning and AI.
 - 😄 Pronouns: he/him
 
 <!---
