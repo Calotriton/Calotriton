@@ -1,7 +1,7 @@
 # 🐸 About Me:
-Hi! I'm Alex, a Data Scientist and PhD in Ecology.
+Hi! I'm Alex, an ecologist (PhD) and data scientist (MSc).
 
-<br> I’m interested in herpetology, freshwater ecology, and all data science-related.
+<br> I’m interested in herpetology, freshwater ecology, and all data science-related. Currently working on new technologies for biodiversity monitoring.
 
 <br> My personal website: www.alex-lopez-phd.vercel.app
 
