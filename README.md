@@ -9,5 +9,10 @@ Hi! I'm Alex, an ecologist (PhD) and data scientist (MSc).
 
 
 
+## My pond:
+![My toad, grown from my GitHub contributions](toad/toad.gif)
+
+<sub>Grown from my GitHub contributions with [git-toad](https://github.com/Calotriton/git-toad).</sub>
+
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alex-lopez-ph-d-291322a8/details/skills/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@StatsBio)
