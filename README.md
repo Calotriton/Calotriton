@@ -5,9 +5,6 @@ Hi! I'm Alex, an ecologist (PhD) and data scientist (MSc).
 
 <br> My personal website: www.alex-lopez-phd.vercel.app
 
-<br> You can contact me on: 93lopez.alejandro@gmail.com
-
-
 
 ## My pond:
 ![My toad, grown from my GitHub contributions](toad/toad.gif)
