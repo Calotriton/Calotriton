@@ -1,0 +1,26 @@
+{
+ "date": "2026-11-08",
+ "season": "autumn",
+ "species": [
+  {
+   "name": "Common darter",
+   "latin": "Sympetrum striolatum",
+   "count": 1
+  },
+  {
+   "name": "Pond skater",
+   "latin": "Gerris lacustris",
+   "count": 1
+  },
+  {
+   "name": "Iberian ribbed newt",
+   "latin": "Pleurodeles waltl",
+   "count": 1
+  },
+  {
+   "name": "Damselfly nymph",
+   "latin": "Ischnura graellsii",
+   "count": 1
+  }
+ ]
+}
