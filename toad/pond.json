@@ -1,12 +1,22 @@
 {
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "season": "autumn",
- "time": "night",
- "status": "BIG DAY: 7 CONTRIBUTIONS!",
+ "time": "day",
+ "status": "NEW STAGE: POLLIWOG!",
  "species": [
   {
-   "name": "Pond skater",
-   "latin": "Gerris lacustris",
+   "name": "Iberian bluetail",
+   "latin": "Ischnura graellsii",
+   "count": 1
+  },
+  {
+   "name": "Backswimmer",
+   "latin": "Notonecta glauca",
+   "count": 2
+  },
+  {
+   "name": "Iberian ribbed newt",
+   "latin": "Pleurodeles waltl",
    "count": 1
   },
   {
@@ -15,18 +25,18 @@
    "count": 1
   },
   {
-   "name": "Damselfly nymph",
-   "latin": "Ischnura graellsii",
-   "count": 1
-  },
-  {
-   "name": "Caddisfly larva",
-   "latin": "Limnephilidae",
+   "name": "Lesser water boatman",
+   "latin": "Sigara lateralis",
    "count": 2
   },
   {
    "name": "Dragonfly nymph",
    "latin": "Anax imperator",
+   "count": 1
+  },
+  {
+   "name": "Caddisfly larva",
+   "latin": "Limnephilidae",
    "count": 1
   }
  ]
