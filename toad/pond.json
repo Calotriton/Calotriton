@@ -1,9 +1,19 @@
 {
  "date": "2026-11-11",
  "season": "autumn",
- "time": "night",
+ "time": "day",
  "status": "NEW STAGE: POLLIWOG!",
  "species": [
+  {
+   "name": "Common darter",
+   "latin": "Sympetrum striolatum",
+   "count": 1
+  },
+  {
+   "name": "Iberian bluetail",
+   "latin": "Ischnura graellsii",
+   "count": 1
+  },
   {
    "name": "Backswimmer",
    "latin": "Notonecta glauca",
