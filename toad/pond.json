@@ -1,5 +1,5 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "season": "autumn",
  "time": "night",
  "status": "NEW STAGE: POLLIWOG!",
@@ -10,23 +10,23 @@
    "count": 2
   },
   {
-   "name": "Great diving beetle",
-   "latin": "Dytiscus circumflexus",
+   "name": "Iberian ribbed newt",
+   "latin": "Pleurodeles waltl",
    "count": 1
   },
   {
-   "name": "Dragonfly nymph",
-   "latin": "Anax imperator",
+   "name": "Marbled newt",
+   "latin": "Triturus marmoratus",
    "count": 1
+  },
+  {
+   "name": "Water fleas",
+   "latin": "Daphnia magna",
+   "count": 7
   },
   {
    "name": "Caddisfly larva",
    "latin": "Limnephilidae",
-   "count": 2
-  },
-  {
-   "name": "Great ramshorn snail",
-   "latin": "Planorbarius corneus",
    "count": 1
   }
  ]
