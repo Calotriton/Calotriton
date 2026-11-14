@@ -1,12 +1,12 @@
 {
- "date": "2026-11-12",
+ "date": "2026-11-13",
  "season": "autumn",
  "time": "night",
  "status": "NEW STAGE: POLLIWOG!",
  "species": [
   {
-   "name": "Backswimmer",
-   "latin": "Notonecta glauca",
+   "name": "Pond skater",
+   "latin": "Gerris lacustris",
    "count": 2
   },
   {
@@ -15,19 +15,24 @@
    "count": 1
   },
   {
-   "name": "Marbled newt",
-   "latin": "Triturus marmoratus",
+   "name": "Water fleas",
+   "latin": "Daphnia magna",
+   "count": 6
+  },
+  {
+   "name": "Great ramshorn snail",
+   "latin": "Planorbarius corneus",
    "count": 1
   },
   {
-   "name": "Water fleas",
-   "latin": "Daphnia magna",
-   "count": 7
+   "name": "Damselfly nymph",
+   "latin": "Ischnura graellsii",
+   "count": 1
   },
   {
    "name": "Caddisfly larva",
    "latin": "Limnephilidae",
-   "count": 1
+   "count": 2
   }
  ]
 }
