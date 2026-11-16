@@ -1,27 +1,22 @@
 {
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "season": "autumn",
  "time": "night",
  "status": "NEW STAGE: POLLIWOG!",
  "species": [
-  {
-   "name": "Iberian ribbed newt",
-   "latin": "Pleurodeles waltl",
-   "count": 1
-  },
-  {
-   "name": "Water fleas",
-   "latin": "Daphnia magna",
-   "count": 5
-  },
   {
    "name": "Lesser water boatman",
    "latin": "Sigara lateralis",
    "count": 2
   },
   {
-   "name": "Caddisfly larva",
-   "latin": "Limnephilidae",
+   "name": "Iberian ribbed newt",
+   "latin": "Pleurodeles waltl",
+   "count": 1
+  },
+  {
+   "name": "Damselfly nymph",
+   "latin": "Ischnura graellsii",
    "count": 1
   }
  ]
