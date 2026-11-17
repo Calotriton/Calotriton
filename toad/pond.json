@@ -1,9 +1,19 @@
 {
- "date": "2026-11-15",
+ "date": "2026-11-16",
  "season": "autumn",
  "time": "night",
  "status": "NEW STAGE: POLLIWOG!",
  "species": [
+  {
+   "name": "Pond skater",
+   "latin": "Gerris lacustris",
+   "count": 2
+  },
+  {
+   "name": "Backswimmer",
+   "latin": "Notonecta glauca",
+   "count": 2
+  },
   {
    "name": "Lesser water boatman",
    "latin": "Sigara lateralis",
@@ -12,6 +22,21 @@
   {
    "name": "Iberian ribbed newt",
    "latin": "Pleurodeles waltl",
+   "count": 1
+  },
+  {
+   "name": "Water fleas",
+   "latin": "Daphnia magna",
+   "count": 7
+  },
+  {
+   "name": "Caddisfly larva",
+   "latin": "Limnephilidae",
+   "count": 2
+  },
+  {
+   "name": "Dragonfly nymph",
+   "latin": "Anax imperator",
    "count": 1
   },
   {
