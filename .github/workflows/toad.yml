@@ -1,14 +1,20 @@
 name: toad
 
 on:
-  schedule:
-    # Hourly, so day and night follow your location. It only commits when the picture
-    # changes: at the new day, first light and last light (about 3 commits a day).
-    - cron: "17 * * * *"
+  # The reliable clock: an external scheduler (cron-job.org) starts this workflow every
+  # 30 minutes through GitHub's API, so day and night switch on time.
   workflow_dispatch:
+  # Backup only: GitHub throttles scheduled workflows and in practice runs this every few hours.
+  schedule:
+    - cron: "17 * * * *"
 
 permissions:
   contents: write
+
+# Runs from both triggers queue up instead of racing each other to push.
+concurrency:
+  group: toad
+  cancel-in-progress: false
 
 jobs:
   grow:
@@ -23,10 +29,13 @@ jobs:
           latitude: "41.39" # Barcelona; use your own pond's coordinates
           longitude: "2.17"
 
+      # Commits only when the picture changed: the new day, first light and last light.
       - name: Commit the toad
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add toad
-          git diff --cached --quiet || git commit -m "toad: pond update"
+          git diff --cached --quiet && exit 0
+          git commit -m "toad: pond update"
+          git pull --rebase
           git push
