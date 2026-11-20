@@ -1,9 +1,19 @@
 {
  "date": "2026-11-19",
  "season": "autumn",
- "time": "night",
+ "time": "day",
  "status": "NO CONTRIBUTIONS YESTERDAY",
  "species": [
+  {
+   "name": "Common darter",
+   "latin": "Sympetrum striolatum",
+   "count": 1
+  },
+  {
+   "name": "Iberian bluetail",
+   "latin": "Ischnura graellsii",
+   "count": 1
+  },
   {
    "name": "Pond skater",
    "latin": "Gerris lacustris",
