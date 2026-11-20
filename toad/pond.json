@@ -1,8 +1,8 @@
 {
- "date": "2026-11-18",
+ "date": "2026-11-19",
  "season": "autumn",
  "time": "night",
- "status": "2 NEW CONTRIBUTIONS. YUM!",
+ "status": "NO CONTRIBUTIONS YESTERDAY",
  "species": [
   {
    "name": "Pond skater",
@@ -15,18 +15,23 @@
    "count": 2
   },
   {
-   "name": "Iberian ribbed newt",
-   "latin": "Pleurodeles waltl",
-   "count": 1
-  },
-  {
-   "name": "Great diving beetle",
-   "latin": "Dytiscus circumflexus",
+   "name": "Marbled newt",
+   "latin": "Triturus marmoratus",
    "count": 1
   },
   {
    "name": "Dragonfly nymph",
    "latin": "Anax imperator",
+   "count": 1
+  },
+  {
+   "name": "Caddisfly larva",
+   "latin": "Limnephilidae",
+   "count": 2
+  },
+  {
+   "name": "Damselfly nymph",
+   "latin": "Ischnura graellsii",
    "count": 1
   }
  ]
