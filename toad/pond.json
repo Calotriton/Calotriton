@@ -1,9 +1,19 @@
 {
  "date": "2026-11-20",
  "season": "autumn",
- "time": "night",
+ "time": "day",
  "status": "2 QUIET DAYS IN A ROW",
  "species": [
+  {
+   "name": "Iberian bluetail",
+   "latin": "Ischnura graellsii",
+   "count": 1
+  },
+  {
+   "name": "Common darter",
+   "latin": "Sympetrum striolatum",
+   "count": 1
+  },
   {
    "name": "Pond skater",
    "latin": "Gerris lacustris",
