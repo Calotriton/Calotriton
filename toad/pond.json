@@ -1,14 +1,9 @@
 {
  "date": "2026-11-22",
  "season": "autumn",
- "time": "day",
+ "time": "night",
  "status": "5 NEW CONTRIBUTIONS. YUM!",
  "species": [
-  {
-   "name": "Common darter",
-   "latin": "Sympetrum striolatum",
-   "count": 1
-  },
   {
    "name": "Pond skater",
    "latin": "Gerris lacustris",
