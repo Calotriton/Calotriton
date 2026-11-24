@@ -1,9 +1,14 @@
 {
  "date": "2026-11-23",
  "season": "autumn",
- "time": "night",
+ "time": "day",
  "status": "NO CONTRIBUTIONS YESTERDAY",
  "species": [
+  {
+   "name": "Common darter",
+   "latin": "Sympetrum striolatum",
+   "count": 1
+  },
   {
    "name": "Iberian ribbed newt",
    "latin": "Pleurodeles waltl",
