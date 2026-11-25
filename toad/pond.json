@@ -1,38 +1,28 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "season": "autumn",
  "time": "night",
- "status": "NO CONTRIBUTIONS YESTERDAY",
+ "status": "2 QUIET DAYS IN A ROW",
  "species": [
   {
-   "name": "Iberian ribbed newt",
-   "latin": "Pleurodeles waltl",
+   "name": "Pond skater",
+   "latin": "Gerris lacustris",
    "count": 1
   },
   {
    "name": "Water fleas",
    "latin": "Daphnia magna",
-   "count": 6
+   "count": 4
   },
   {
-   "name": "Marbled newt",
-   "latin": "Triturus marmoratus",
-   "count": 1
+   "name": "Lesser water boatman",
+   "latin": "Sigara lateralis",
+   "count": 2
   },
   {
    "name": "Caddisfly larva",
    "latin": "Limnephilidae",
    "count": 2
-  },
-  {
-   "name": "Damselfly nymph",
-   "latin": "Ischnura graellsii",
-   "count": 1
-  },
-  {
-   "name": "Dragonfly nymph",
-   "latin": "Anax imperator",
-   "count": 1
   }
  ]
 }
