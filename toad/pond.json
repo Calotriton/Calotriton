@@ -1,28 +1,43 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "season": "autumn",
  "time": "night",
- "status": "2 QUIET DAYS IN A ROW",
+ "status": "1 NEW CONTRIBUTION. YUM!",
  "species": [
   {
-   "name": "Pond skater",
-   "latin": "Gerris lacustris",
+   "name": "Backswimmer",
+   "latin": "Notonecta glauca",
    "count": 1
   },
   {
-   "name": "Water fleas",
-   "latin": "Daphnia magna",
-   "count": 4
+   "name": "Marbled newt",
+   "latin": "Triturus marmoratus",
+   "count": 1
   },
   {
-   "name": "Lesser water boatman",
-   "latin": "Sigara lateralis",
-   "count": 2
+   "name": "Great diving beetle",
+   "latin": "Dytiscus circumflexus",
+   "count": 1
   },
   {
-   "name": "Caddisfly larva",
-   "latin": "Limnephilidae",
-   "count": 2
+   "name": "Iberian ribbed newt",
+   "latin": "Pleurodeles waltl",
+   "count": 1
+  },
+  {
+   "name": "Dragonfly nymph",
+   "latin": "Anax imperator",
+   "count": 1
+  },
+  {
+   "name": "Great ramshorn snail",
+   "latin": "Planorbarius corneus",
+   "count": 1
+  },
+  {
+   "name": "Damselfly nymph",
+   "latin": "Ischnura graellsii",
+   "count": 1
   }
  ]
 }
