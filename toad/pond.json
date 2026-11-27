@@ -1,22 +1,12 @@
 {
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "season": "autumn",
  "time": "night",
- "status": "1 NEW CONTRIBUTION. YUM!",
+ "status": "NO CONTRIBUTIONS YESTERDAY",
  "species": [
   {
-   "name": "Backswimmer",
-   "latin": "Notonecta glauca",
-   "count": 1
-  },
-  {
-   "name": "Marbled newt",
-   "latin": "Triturus marmoratus",
-   "count": 1
-  },
-  {
-   "name": "Great diving beetle",
-   "latin": "Dytiscus circumflexus",
+   "name": "Pond skater",
+   "latin": "Gerris lacustris",
    "count": 1
   },
   {
@@ -25,18 +15,13 @@
    "count": 1
   },
   {
+   "name": "Marbled newt",
+   "latin": "Triturus marmoratus",
+   "count": 1
+  },
+  {
    "name": "Dragonfly nymph",
    "latin": "Anax imperator",
-   "count": 1
-  },
-  {
-   "name": "Great ramshorn snail",
-   "latin": "Planorbarius corneus",
-   "count": 1
-  },
-  {
-   "name": "Damselfly nymph",
-   "latin": "Ischnura graellsii",
    "count": 1
   }
  ]
